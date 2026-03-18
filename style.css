@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(245, 228, 237);
+    color: rgb(144, 11, 11);
+   text-align: center;
+   font: size 22px;}
+   .paragrafo{
+    color: black;
+    font-size: larger}
+    .imagem{
+        width: 10%;}
+    .rodape{color: blueviolet;
+    font-size: ;}
